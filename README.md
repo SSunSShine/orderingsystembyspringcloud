@@ -18,4 +18,4 @@ user 提供用户服务：添加用户、查询用户、删除用户。
 
 4个服务提供者和1个服务消费者都需要在注册中心完成注册，同时注册配置中心，提供配置信息读取，服务提供者和服务消费者的配置信息保存在本地，由配置中心负责拉取，关系如下图所示。
 
-![1](https://github.com/sunshine/orderingsystembyspringcloud/blob/master/model.png)
+![image](https://github.com/sunshine/orderingsystembyspringcloud/blob/master/model.png)
